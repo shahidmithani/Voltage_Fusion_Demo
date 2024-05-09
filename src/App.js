@@ -107,7 +107,7 @@ function App() {
    **********************/
   return (
       <main>
-        <h1 className="ot2-sample-header">Safeguarding PII/PHI with Risk Guard</h1><br/>
+        <h1 className="ot2-sample-header">Voltage Fusion API Demo</h1><br/>
         <div className="ot2-body">
           <div>
             <h3>Use Authentication API to obtain Access Token</h3>
